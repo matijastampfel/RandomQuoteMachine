@@ -1,6 +1,6 @@
 {
   "homepage": "https://matijastampfel.github.io/RandomQuoteMachine/",
-  "name": "my-app",
+  "name": "RandomQuoteMachine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
